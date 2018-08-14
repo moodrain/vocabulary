@@ -1,0 +1,24 @@
+[
+    {
+        "word": "variety",
+        "mean": "品种",
+        "tags": [
+            "种类",
+            "多样化"
+        ],
+        "finish": false,
+        "sentence": "In this regard, and with this in mind, there is a wide variety of different toys that ideally are suited for the bath and for your baby.",
+        "reviewAt": "2018-08-10"
+    },
+    {
+        "word": "diversity",
+        "mean": "多样",
+        "tags": [
+            "种类",
+            "差异"
+        ],
+        "sentence": "The trend of the change of the diversity index was opposite to that of the variation coefficient.",
+        "finish": true,
+        "reviewAt": "2018-08-10"
+    }
+]
