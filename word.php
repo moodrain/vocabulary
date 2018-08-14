@@ -47,7 +47,7 @@ if(isset($_GET['delete'])) {
                     </div>
                     <div class="form-group">
                         <label>Sentence</label>
-                        <input name="sentence" class="form-control" value="<?php echo $word->sentence; ?>">
+                        <textarea name="sentence" class="form-control" rows="4"><?php echo $word->sentence; ?></textarea>
                     </div>
                     <div class="checkbox">
                         <label>

@@ -41,7 +41,7 @@
                     </div>
                     <div class="form-group">
                         <label>Sentence</label>
-                        <input name="sentence" class="form-control">
+                        <textarea name="sentence" class="form-control" rows="4"></textarea>
                     </div>
                     <div class="checkbox">
                         <label>
