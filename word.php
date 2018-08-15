@@ -33,21 +33,21 @@ if(isset($_GET['delete'])) {
                 <form id="form" action="" method="POST">
                     <div class="form-group">
                         <label>Word</label>
-                        <input id="word-input" name="word" readonly class="form-control" value="<?php echo $word->word; ?>">
+                        <input id="word-input" name="word" autocomplete="off" readonly class="form-control" value="<?php echo $word->word; ?>">
                     </div>
                     <div class="form-group">
                         <label>Meaning</label>
-                        <input id="mean-input" name="mean" class="form-control" value="<?php echo $word->mean; ?>">
+                        <input id="mean-input" name="mean" autocomplete="off" class="form-control" value="<?php echo $word->mean; ?>">
                     </div>
                     <div class="form-group" id="tags-div">
                         <label>Tags</label>
                         <?php foreach($word->tags as $tag) { ?>
-                            <input name="tags[]" class="form-control" value="<?php echo $tag; ?>">
+                            <input name="tags[]" class="form-control" autocomplete="off" value="<?php echo $tag; ?>">
                         <?php } ?>
                     </div>
                     <div class="form-group">
                         <label>Sentence</label>
-                        <textarea name="sentence" class="form-control" rows="4"><?php echo $word->sentence; ?></textarea>
+                        <textarea name="sentence" class="form-control" autocomplete="off" rows="4"><?php echo $word->sentence; ?></textarea>
                     </div>
                     <div class="checkbox">
                         <label>
@@ -78,6 +78,7 @@ if(isset($_GET['delete'])) {
                 let tag = $tag('input')
                 tag.className = 'form-control'
                 tag.name = 'tags[]'
+                tag.autocomplete = 'off'
                 $add('tags-div', tag)
                 tag.focus()
                 tag.addEventListener('input', () => {

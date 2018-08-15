@@ -29,19 +29,19 @@
                 <form id="form" action="" method="POST">
                     <div class="form-group">
                         <label>Word</label>
-                        <input id="word-input" name="word" class="form-control">
+                        <input id="word-input" name="word" class="form-control" autocomplete="off">
                     </div>
                     <div class="form-group">
                         <label>Meaning</label>
-                        <input id="mean-input" name="mean" class="form-control">
+                        <input id="mean-input" name="mean" class="form-control" autocomplete="off">
                     </div>
                     <div class="form-group" id="tags-div">
                         <label>Tags</label>
-                        <input name="tags[]" class="form-control">
+                        <input name="tags[]" class="form-control" autocomplete="off">
                     </div>
                     <div class="form-group">
                         <label>Sentence</label>
-                        <textarea name="sentence" class="form-control" rows="4"></textarea>
+                        <textarea name="sentence" class="form-control" rows="4" autocomplete="off"></textarea>
                     </div>
                     <div class="checkbox">
                         <label>
@@ -63,13 +63,21 @@
         $e('word-input').focus()
         $click('submit-btn', () => { $e('form').submit() })
         $e('mean-input').addEventListener('focus', () => {
-            $l('ajax')
+            $get('word.php?ajax=1&search=' + $v('word-input'), ()=>{}, error => {
+                if(confirm('this word has been recorded, search it?'))
+                    window.location = 'word.php?search=' + $v('word-input')
+                else {
+                    $e('word-input').focus()
+                    $v('word-input', '')
+                }
+            })
         })
         document.onkeydown = event => {
 		    if(event.keyCode === 13) {
                 let tag = $tag('input')
                 tag.className = 'form-control'
                 tag.name = 'tags[]'
+                tag.autocomplete = 'off'
                 $add('tags-div', tag)
                 tag.focus()
                 tag.addEventListener('input', () => {

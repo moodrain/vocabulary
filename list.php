@@ -36,7 +36,7 @@
                 <form action="">
                     <div class="input-group">
                         <input name="view" class="hidden" value="tag">
-                        <input name="tag" class="form-control" placeholder="<?php echo $_GET['tag'] ?? ''; ?>">
+                        <input name="tag" class="form-control" placeholder="<?php echo $_GET['tag'] ?? ''; ?>" autocomplete="off">
                         <span class="input-group-btn">
                             <button class="btn btn-default">search by tag</button>
                         </span>
