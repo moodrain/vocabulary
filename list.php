@@ -32,7 +32,7 @@
             <a href="list.php?view=finish" class="list-group-item" <?php echo $view == 'finish' ? 'style="background: lightblue;"' : ''; ?>><span class="badge"><?php echo count($finish); ?></span>Finished: </a>
             <a href="list.php?view=unfinish" class="list-group-item" <?php echo $view == 'unfinish' ? 'style="background: lightblue;"' : ''; ?>><span class="badge"><?php echo count($unFinish); ?></span>Unfinished: </a>
             <a href="list.php?view=unreview" class="list-group-item" <?php echo $view == 'unreview' ? 'style="background: lightblue;"' : ''; ?>><span class="badge"><?php echo count($unReview); ?></span>Unreviewed: </a>
-            <li>
+            <li style="list-style: none;">
                 <form action="">
                     <div class="input-group">
                         <input name="view" class="hidden" value="tag">
