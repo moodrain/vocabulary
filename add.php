@@ -63,7 +63,7 @@
         $e('word-input').focus()
         $click('submit-btn', () => { $e('form').submit() })
         $e('mean-input').addEventListener('focus', () => {
-            $get('word.php?ajax=1&search=' + $v('word-input'), ()=>{}, error => {
+            $get('word.php?ajax=1&search=' + $v('word-input'), () => {
                 if(confirm('this word has been recorded, search it?'))
                     window.location = 'word.php?search=' + $v('word-input')
                 else {
