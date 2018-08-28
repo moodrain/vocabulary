@@ -20,6 +20,7 @@
         <div class="panel panel-default">
             <div class="panel-body text-center">
                 <a id="search-a" class="btn btn-info">Search</a>
+                <a href="tag.php" class="btn btn-warning">Tags</a>
                 <a href="add.php" class="btn btn-success">New</a>
                 <a href="learn.php" class="btn btn-primary">Start</a>
             </div>
