@@ -1,0 +1,3026 @@
+[
+    {
+        "word": "exaggerate",
+        "mean": "夸大",
+        "tags": [
+            "夸大"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-09-06"
+    },
+    {
+        "word": "aggravate",
+        "mean": "加重、使恶化",
+        "tags": [
+            "加重"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-15"
+    },
+    {
+        "word": "magnify",
+        "mean": "夸大、加剧",
+        "tags": [
+            "夸大",
+            "加重"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-15"
+    },
+    {
+        "word": "variety",
+        "mean": "品种",
+        "tags": [
+            "种类",
+            "多样化"
+        ],
+        "sentence": "In this regard, and with this in mind, there is a wide variety of different toys that ideally are suited for the bath and for your baby.",
+        "finish": true,
+        "reviewAt": "2018-08-15"
+    },
+    {
+        "word": "acquaintance",
+        "mean": "熟人",
+        "tags": [
+            "朋友",
+            "社交"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-15"
+    },
+    {
+        "word": "diversity",
+        "mean": "多样",
+        "tags": [
+            "种类",
+            "差异"
+        ],
+        "sentence": "Human diversity makes tolerance more than a virtue; it makes it a requirement for survival.",
+        "finish": true,
+        "reviewAt": "2018-08-16"
+    },
+    {
+        "word": "panel discussion",
+        "mean": "小组讨论",
+        "tags": [
+            "社交",
+            "方法"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-16"
+    },
+    {
+        "word": "obstinate",
+        "mean": "执拗的、棘手的",
+        "tags": [
+            "性格"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-16"
+    },
+    {
+        "word": "subtle",
+        "mean": "微妙的、巧妙的",
+        "tags": [
+            "好的"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-17"
+    },
+    {
+        "word": "abound",
+        "mean": "大量存在",
+        "tags": [
+            "大量"
+        ],
+        "sentence": "opportunities will abound for aspiring leaders",
+        "finish": false,
+        "reviewAt": "2018-08-17"
+    },
+    {
+        "word": "perpetual",
+        "mean": "不间断的、长久的",
+        "tags": [
+            "长远"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-09-06"
+    },
+    {
+        "word": "harsh",
+        "mean": "严厉、残酷",
+        "tags": [
+            "残酷",
+            "严厉"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-17"
+    },
+    {
+        "word": "diminish",
+        "mean": "减小",
+        "tags": [
+            "减小"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-17"
+    },
+    {
+        "word": "divide",
+        "mean": "n.v.分开",
+        "tags": [
+            "分开"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-17"
+    },
+    {
+        "word": "separate",
+        "mean": "分开",
+        "tags": [
+            "分开"
+        ],
+        "sentence": "",
+        "finish": true,
+        "reviewAt": "2018-08-17"
+    },
+    {
+        "word": "split",
+        "mean": "分开",
+        "tags": [
+            "分开"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-17"
+    },
+    {
+        "word": "investor",
+        "mean": "投资人",
+        "tags": [
+            "or后缀"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-17"
+    },
+    {
+        "word": "prompt",
+        "mean": "迅速的、促使、推动",
+        "tags": [
+            "引发",
+            "推动"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-17"
+    },
+    {
+        "word": "provoke",
+        "mean": "引起、激怒",
+        "tags": [
+            "引发",
+            "激怒"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-17"
+    },
+    {
+        "word": "attorney",
+        "mean": "律师",
+        "tags": [
+            ""
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-17"
+    },
+    {
+        "word": "desire",
+        "mean": "愿望",
+        "tags": [
+            "愿望"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-17"
+    },
+    {
+        "word": "eagerness",
+        "mean": "愿望、渴望",
+        "tags": [
+            "愿望"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-17"
+    },
+    {
+        "word": "urge",
+        "mean": "愿望、主张",
+        "tags": [
+            "愿望"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-17"
+    },
+    {
+        "word": "passion",
+        "mean": "愿望、热衷",
+        "tags": [
+            "愿望"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-09-10"
+    },
+    {
+        "word": "spur",
+        "mean": "促进、鼓励",
+        "tags": [
+            "推动"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-17"
+    },
+    {
+        "word": "outweigh",
+        "mean": "大于、超过",
+        "tags": [
+            "超过"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-17"
+    },
+    {
+        "word": "boom",
+        "mean": "繁荣、迅速发展",
+        "tags": [
+            "繁荣",
+            "发展"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-17"
+    },
+    {
+        "word": "restrict",
+        "mean": "限制",
+        "tags": [
+            "限制"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-09-10"
+    },
+    {
+        "word": "restrain",
+        "mean": "限制",
+        "tags": [
+            "限制"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-17"
+    },
+    {
+        "word": "refrain",
+        "mean": "限制、克制",
+        "tags": [
+            "限制"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-17"
+    },
+    {
+        "word": "constrain",
+        "mean": "限制、强迫",
+        "tags": [
+            "限制"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-09-10"
+    },
+    {
+        "word": "curb",
+        "mean": "控制、限制",
+        "tags": [
+            "限制"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-17"
+    },
+    {
+        "word": "prohibit",
+        "mean": "禁止",
+        "tags": [
+            "禁止"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-17"
+    },
+    {
+        "word": "forbid",
+        "mean": "禁止",
+        "tags": [
+            "禁止"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-09-06"
+    },
+    {
+        "word": "ornament",
+        "mean": "装饰、美化",
+        "tags": [
+            "美化"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-17"
+    },
+    {
+        "word": "discard",
+        "mean": "抛弃",
+        "tags": [
+            "抛弃"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-09-10"
+    },
+    {
+        "word": "desert",
+        "mean": "抛弃",
+        "tags": [
+            "抛弃"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-09-10"
+    },
+    {
+        "word": "abandon",
+        "mean": "抛弃、放弃",
+        "tags": [
+            "抛弃"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-17"
+    },
+    {
+        "word": "accelerate",
+        "mean": "加速、推动",
+        "tags": [
+            "推动",
+            "发展"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-17"
+    },
+    {
+        "word": "diligent",
+        "mean": "勤奋、努力",
+        "tags": [
+            "努力"
+        ],
+        "sentence": "",
+        "finish": true,
+        "reviewAt": "2018-08-17"
+    },
+    {
+        "word": "feasible",
+        "mean": "可行的",
+        "tags": [
+            "合理"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-17"
+    },
+    {
+        "word": "infinite",
+        "mean": "无限的、无限",
+        "tags": [
+            "大量"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-09-10"
+    },
+    {
+        "word": "impose",
+        "mean": "推行、执行、强迫接受",
+        "tags": [
+            "实施"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-17"
+    },
+    {
+        "word": "enforce",
+        "mean": "实施、执行",
+        "tags": [
+            "实施"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-17"
+    },
+    {
+        "word": "proclaim",
+        "mean": "宣布、表明",
+        "tags": [
+            "表明"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-09-06"
+    },
+    {
+        "word": "specific",
+        "mean": "明确的、特性、细节",
+        "tags": [
+            "特点",
+            "明确"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-17"
+    },
+    {
+        "word": "definite",
+        "mean": "确定的、明确的",
+        "tags": [
+            "明确"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-17"
+    },
+    {
+        "word": "explicit",
+        "mean": "明确的、清楚地",
+        "tags": [
+            "明确"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-17"
+    },
+    {
+        "word": "notable",
+        "mean": "值得注意的、重要的",
+        "tags": [
+            "重要"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-09-10"
+    },
+    {
+        "word": "implicit",
+        "mean": "含蓄的、内含的",
+        "tags": [
+            "不明确"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-09-06"
+    },
+    {
+        "word": "innumberable",
+        "mean": "无数的",
+        "tags": [
+            "大量"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-17"
+    },
+    {
+        "word": "facilitate",
+        "mean": "促进、使便利",
+        "tags": [
+            "推动"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-18"
+    },
+    {
+        "word": "hazard",
+        "mean": "n.v.危险、危害",
+        "tags": [
+            "危害"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-18"
+    },
+    {
+        "word": "descend",
+        "mean": "下降、降临",
+        "tags": [
+            "减小"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-18"
+    },
+    {
+        "word": "advance",
+        "mean": "n.v.a发展、进步、预先的、推动",
+        "tags": [
+            "发展",
+            "推动",
+            "进步",
+            "预先"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-18"
+    },
+    {
+        "word": "incredible",
+        "mean": "好的、难以置信的",
+        "tags": [
+            "好的"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-09-10"
+    },
+    {
+        "word": "deficiency",
+        "mean": "缺点、不足",
+        "tags": [
+            "不好"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-18"
+    },
+    {
+        "word": "impetus",
+        "mean": "动力、推动",
+        "tags": [
+            "推动"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-18"
+    },
+    {
+        "word": "allege",
+        "mean": "声称",
+        "tags": [
+            "声称"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-18"
+    },
+    {
+        "word": "collaborate",
+        "mean": "合作",
+        "tags": [
+            "合作"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-09-10"
+    },
+    {
+        "word": "competitor",
+        "mean": "竞争者、对手",
+        "tags": [
+            "对手",
+            "竞争",
+            "or后缀"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-18"
+    },
+    {
+        "word": "effort",
+        "mean": "付出、努力",
+        "tags": [
+            "努力"
+        ],
+        "sentence": "",
+        "finish": true,
+        "reviewAt": "2018-08-18"
+    },
+    {
+        "word": "severely",
+        "mean": "严重的",
+        "tags": [
+            "不好",
+            "严重"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-18"
+    },
+    {
+        "word": "sponsor",
+        "mean": "赞助者",
+        "tags": [
+            "or后缀"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-18"
+    },
+    {
+        "word": "decline",
+        "mean": "下降、减小、拒绝",
+        "tags": [
+            "减小"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-18"
+    },
+    {
+        "word": "lessen",
+        "mean": "减小、减少",
+        "tags": [
+            "减小"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-18"
+    },
+    {
+        "word": "enormous",
+        "mean": "大量",
+        "tags": [
+            "大量"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-19"
+    },
+    {
+        "word": "address",
+        "mean": "处理、向...讲话",
+        "tags": [
+            "处理"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-19"
+    },
+    {
+        "word": "dispose of",
+        "mean": "处理",
+        "tags": [
+            "处理"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-19"
+    },
+    {
+        "word": "cope with",
+        "mean": "对付、处理",
+        "tags": [
+            "处理"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-09-10"
+    },
+    {
+        "word": "incur",
+        "mean": "招致、导致",
+        "tags": [
+            "导致"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-19"
+    },
+    {
+        "word": "detective",
+        "mean": "侦探",
+        "tags": [
+            "ive后缀"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-19"
+    },
+    {
+        "word": "orthodox",
+        "mean": "保守的、正统的、普遍接受的",
+        "tags": [
+            "保守",
+            "普遍"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-19"
+    },
+    {
+        "word": "latent",
+        "mean": "潜在的",
+        "tags": [
+            "潜在"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-19"
+    },
+    {
+        "word": "underlying",
+        "mean": "潜在的",
+        "tags": [
+            "潜在"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-19"
+    },
+    {
+        "word": "decrease",
+        "mean": "减小",
+        "tags": [
+            "减小"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-19"
+    },
+    {
+        "word": "occurrence",
+        "mean": "双写r，en",
+        "tags": [
+            "双写",
+            "en"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-19"
+    },
+    {
+        "word": "indignation",
+        "mean": "愤怒",
+        "tags": [
+            "愤怒"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-09-10"
+    },
+    {
+        "word": "astonishing",
+        "mean": "惊人的",
+        "tags": [
+            "惊人"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-19"
+    },
+    {
+        "word": "remarkable",
+        "mean": "重要的",
+        "tags": [
+            "重要"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-19"
+    },
+    {
+        "word": "intense",
+        "mean": "强烈的",
+        "tags": [
+            "强烈"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-19"
+    },
+    {
+        "word": "stunning",
+        "mean": "绝妙的、有魅力的、留下深刻印象的",
+        "tags": [
+            "好的"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-19"
+    },
+    {
+        "word": "execute",
+        "mean": "实施",
+        "tags": [
+            "实施"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-09-10"
+    },
+    {
+        "word": "restraint",
+        "mean": "限制",
+        "tags": [
+            "限制"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-20"
+    },
+    {
+        "word": "forward",
+        "mean": "推动、发展、促进、向前的",
+        "tags": [
+            "发展",
+            "推动"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-20"
+    },
+    {
+        "word": "reinforce",
+        "mean": "加强",
+        "tags": [
+            "加强"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-20"
+    },
+    {
+        "word": "preliminary",
+        "mean": "初步、预备、准备工作",
+        "tags": [
+            "预先",
+            "初步"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-20"
+    },
+    {
+        "word": "luxurious",
+        "mean": "奢侈的、豪华的",
+        "tags": [
+            "奢侈"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-09-10"
+    },
+    {
+        "word": "derive",
+        "mean": "来自、获得",
+        "tags": [
+            "来源",
+            "获得"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-20"
+    },
+    {
+        "word": "dependent",
+        "mean": "依赖",
+        "tags": [
+            "en"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-20"
+    },
+    {
+        "word": "vast",
+        "mean": "大量的、辽阔的",
+        "tags": [
+            "大量"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-20"
+    },
+    {
+        "word": "vital",
+        "mean": "重要的",
+        "tags": [
+            "重要"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-20"
+    },
+    {
+        "word": "manifest",
+        "mean": "表明、明显的",
+        "tags": [
+            "明显",
+            "表明"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-20"
+    },
+    {
+        "word": "tailor",
+        "mean": "裁缝、定做",
+        "tags": [
+            "or后缀"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-20"
+    },
+    {
+        "word": "prevalent",
+        "mean": "流行的。普遍的",
+        "tags": [
+            "流行",
+            "普遍"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-20"
+    },
+    {
+        "word": "preferable",
+        "mean": "更可取的、更适合的",
+        "tags": [
+            "好的"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-09-10"
+    },
+    {
+        "word": "·inferior",
+        "mean": "下等的、差的",
+        "tags": [
+            "不好"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-20"
+    },
+    {
+        "word": "initiate",
+        "mean": "引发、导致",
+        "tags": [
+            "导致",
+            "最初"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-20"
+    },
+    {
+        "word": "substantial",
+        "mean": "大量的，实质的",
+        "tags": [
+            "大量"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-21"
+    },
+    {
+        "word": "endeavor",
+        "mean": "n.v.勤奋",
+        "tags": [
+            "努力"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-21"
+    },
+    {
+        "word": "executive",
+        "mean": "管理的、主管",
+        "tags": [
+            "ive后缀"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-21"
+    },
+    {
+        "word": "insist",
+        "mean": "坚持、坚持认为",
+        "tags": [
+            "认为"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-21"
+    },
+    {
+        "word": "principal",
+        "mean": "主要的",
+        "tags": [
+            "重要"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-21"
+    },
+    {
+        "word": "secondary",
+        "mean": "次要的",
+        "tags": [
+            "不好"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-21"
+    },
+    {
+        "word": "obtain",
+        "mean": "获得",
+        "tags": [
+            "获得"
+        ],
+        "sentence": "",
+        "finish": true,
+        "reviewAt": "2018-08-21"
+    },
+    {
+        "word": "conductor",
+        "mean": "指挥",
+        "tags": [
+            "or后缀"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-21"
+    },
+    {
+        "word": "erroneous",
+        "mean": "错误的",
+        "tags": [
+            "不好"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-21"
+    },
+    {
+        "word": "statement",
+        "mean": "声明",
+        "tags": [
+            "声明"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-21"
+    },
+    {
+        "word": "primitive",
+        "mean": "原始的",
+        "tags": [
+            "初始"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-22"
+    },
+    {
+        "word": "demonstrate",
+        "mean": "表明",
+        "tags": [
+            "表明"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-22"
+    },
+    {
+        "word": "stress",
+        "mean": "强调",
+        "tags": [
+            "重要",
+            "强调"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-22"
+    },
+    {
+        "word": "reveal",
+        "mean": "揭露",
+        "tags": [
+            "表明"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-22"
+    },
+    {
+        "word": "original",
+        "mean": "原始的",
+        "tags": [
+            "初始"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-22"
+    },
+    {
+        "word": "specialist",
+        "mean": "专家",
+        "tags": [
+            "list后缀"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-09-10"
+    },
+    {
+        "word": "indicate",
+        "mean": "表明",
+        "tags": [
+            "表明"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-22"
+    },
+    {
+        "word": "ultimately",
+        "mean": "最终地",
+        "tags": [
+            "最终"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-09-10"
+    },
+    {
+        "word": "eventually",
+        "mean": "最终地",
+        "tags": [
+            "最终"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-22"
+    },
+    {
+        "word": "vague",
+        "mean": "模糊的",
+        "tags": [
+            "模糊"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-22"
+    },
+    {
+        "word": "noteworthy",
+        "mean": "值得注意的",
+        "tags": [
+            "重要"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-22"
+    },
+    {
+        "word": "analogous",
+        "mean": "相似的",
+        "tags": [
+            "类似"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-09-10"
+    },
+    {
+        "word": "analogy",
+        "mean": "相似",
+        "tags": [
+            "类似"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-09-10"
+    },
+    {
+        "word": "similarity",
+        "mean": "类似的",
+        "tags": [
+            "类似"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-22"
+    },
+    {
+        "word": "commodities",
+        "mean": "商品",
+        "tags": [
+            "商品"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-22"
+    },
+    {
+        "word": "goods",
+        "mean": "商品",
+        "tags": [
+            "商品"
+        ],
+        "sentence": "",
+        "finish": true,
+        "reviewAt": "2018-08-22"
+    },
+    {
+        "word": "merchandi",
+        "mean": "商品",
+        "tags": [
+            "商品"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-22"
+    },
+    {
+        "word": "professor",
+        "mean": "教授",
+        "tags": [
+            "or后缀"
+        ],
+        "sentence": "",
+        "finish": true,
+        "reviewAt": "2018-08-22"
+    },
+    {
+        "word": "deem",
+        "mean": "认为",
+        "tags": [
+            "认为"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-22"
+    },
+    {
+        "word": "deteriorate",
+        "mean": "恶化",
+        "tags": [
+            "恶化"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-22"
+    },
+    {
+        "word": "undermine",
+        "mean": "危害",
+        "tags": [
+            "危害"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-22"
+    },
+    {
+        "word": "stand in favor of",
+        "mean": "支持",
+        "tags": [
+            "支持"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-22"
+    },
+    {
+        "word": "evaluate",
+        "mean": "评估",
+        "tags": [
+            "评估"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-22"
+    },
+    {
+        "word": "estimate",
+        "mean": "评估",
+        "tags": [
+            "评估"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-22"
+    },
+    {
+        "word": "assess",
+        "mean": "评估",
+        "tags": [
+            "评估"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-09-06"
+    },
+    {
+        "word": "resemblance",
+        "mean": "相似",
+        "tags": [
+            "类似",
+            "ance后缀"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-22"
+    },
+    {
+        "word": "conference",
+        "mean": "会议、协商、讨论、联盟",
+        "tags": [
+            "ence后缀"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-22"
+    },
+    {
+        "word": "physician",
+        "mean": "医生、内科医生",
+        "tags": [
+            "cian后缀"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-22"
+    },
+    {
+        "word": "endanger",
+        "mean": "危害",
+        "tags": [
+            "危害"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-22"
+    },
+    {
+        "word": "adolescent",
+        "mean": "青年、青年的",
+        "tags": [
+            "青年"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-22"
+    },
+    {
+        "word": "disposable chopsticks",
+        "mean": "一次性筷子",
+        "tags": [
+            "环保"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-22"
+    },
+    {
+        "word": "intuitively",
+        "mean": "直觉上",
+        "tags": [
+            "直觉"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-22"
+    },
+    {
+        "word": "invite",
+        "mean": "招致",
+        "tags": [
+            "招致"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-22"
+    },
+    {
+        "word": "concession",
+        "mean": "让步",
+        "tags": [
+            "让步"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-22"
+    },
+    {
+        "word": "collapse",
+        "mean": "崩溃",
+        "tags": [
+            "崩溃"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-22"
+    },
+    {
+        "word": "a string of",
+        "mean": "大量、一系列",
+        "tags": [
+            "大量"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-22"
+    },
+    {
+        "word": "unconscious",
+        "mean": "无意识的",
+        "tags": [
+            "意识"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-22"
+    },
+    {
+        "word": "imitate",
+        "mean": "模仿",
+        "tags": [
+            "模仿"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-22"
+    },
+    {
+        "word": "simulation",
+        "mean": "模仿",
+        "tags": [
+            "模仿"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-22"
+    },
+    {
+        "word": "part and parcel",
+        "mean": "必要的部分",
+        "tags": [
+            "重要"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-22"
+    },
+    {
+        "word": "perplex",
+        "mean": "使困惑",
+        "tags": [
+            "困惑"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-22"
+    },
+    {
+        "word": "bewilder",
+        "mean": "使困惑",
+        "tags": [
+            "困惑"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-09-10"
+    },
+    {
+        "word": "puzzle",
+        "mean": "使困惑",
+        "tags": [
+            "困惑"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-09-10"
+    },
+    {
+        "word": "confuse",
+        "mean": "使困惑",
+        "tags": [
+            "困惑"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-22"
+    },
+    {
+        "word": "cement",
+        "mean": "加强",
+        "tags": [
+            "加强"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-22"
+    },
+    {
+        "word": "displacement",
+        "mean": "代替",
+        "tags": [
+            "代替"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-22"
+    },
+    {
+        "word": "replacement",
+        "mean": "代替",
+        "tags": [
+            "代替"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-22"
+    },
+    {
+        "word": "mindless",
+        "mean": "无意识的",
+        "tags": [
+            "意识"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-22"
+    },
+    {
+        "word": "eligible",
+        "mean": "有资格的",
+        "tags": [
+            "资格"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-22"
+    },
+    {
+        "word": "brilliant",
+        "mean": "卓越的",
+        "tags": [
+            "好的"
+        ],
+        "sentence": "",
+        "finish": true,
+        "reviewAt": "2018-08-22"
+    },
+    {
+        "word": "plentiful",
+        "mean": "大量的",
+        "tags": [
+            "大量"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-22"
+    },
+    {
+        "word": "adequate",
+        "mean": "足够的",
+        "tags": [
+            "足够"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-22"
+    },
+    {
+        "word": "boycott",
+        "mean": "抵制",
+        "tags": [
+            "抵制"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-22"
+    },
+    {
+        "word": "discern",
+        "mean": "看出、察觉、认为",
+        "tags": [
+            "认为"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-09-10"
+    },
+    {
+        "word": "first-rate",
+        "mean": "第一流的",
+        "tags": [
+            "好的"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-22"
+    },
+    {
+        "word": "maintain",
+        "mean": "坚持认为",
+        "tags": [
+            "认为",
+            "声称"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-09-06"
+    },
+    {
+        "word": "adhere to",
+        "mean": "遵守",
+        "tags": [
+            "遵守"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-22"
+    },
+    {
+        "word": "obey",
+        "mean": "遵守",
+        "tags": [
+            "遵守"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-22"
+    },
+    {
+        "word": "observe",
+        "mean": "遵守",
+        "tags": [
+            "遵守"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-09-06"
+    },
+    {
+        "word": "abide by",
+        "mean": "遵守",
+        "tags": [
+            "遵守"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-22"
+    },
+    {
+        "word": "advocate",
+        "mean": "宣称、提倡",
+        "tags": [
+            "宣称"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-22"
+    },
+    {
+        "word": "moderate",
+        "mean": "v.a.适中、缓和",
+        "tags": [
+            "减小",
+            "适中",
+            "缓和"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-09-06"
+    },
+    {
+        "word": "distinctive",
+        "mean": "独特的",
+        "tags": [
+            "好的",
+            "独特"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-23"
+    },
+    {
+        "word": "distinct",
+        "mean": "明确的",
+        "tags": [
+            "明确"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-23"
+    },
+    {
+        "word": "virtually",
+        "mean": "实际上",
+        "tags": [
+            "实际"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-23"
+    },
+    {
+        "word": "morality",
+        "mean": "道德",
+        "tags": [
+            "道德",
+            "美德"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-23"
+    },
+    {
+        "word": "virtue",
+        "mean": "美德",
+        "tags": [
+            "美德",
+            "道德"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-23"
+    },
+    {
+        "word": "merit",
+        "mean": "美德",
+        "tags": [
+            "美德",
+            "道德"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-23"
+    },
+    {
+        "word": "vigorously",
+        "mean": "有力的、强烈的",
+        "tags": [
+            "有力",
+            "强烈"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-23"
+    },
+    {
+        "word": "reduce",
+        "mean": "减小 reduction",
+        "tags": [
+            "减小"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-23"
+    },
+    {
+        "word": "chancellor",
+        "mean": "总理、校长",
+        "tags": [
+            "or后缀"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-09-10"
+    },
+    {
+        "word": "defendant",
+        "mean": "被告",
+        "tags": [
+            "ant后缀"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-23"
+    },
+    {
+        "word": "justice",
+        "mean": "争议、法官",
+        "tags": [
+            "ice后缀"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-23"
+    },
+    {
+        "word": "illuminate",
+        "mean": "表明",
+        "tags": [
+            "表明"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-23"
+    },
+    {
+        "word": "illustrate",
+        "mean": "表明",
+        "tags": [
+            "表明"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-23"
+    },
+    {
+        "word": "fault",
+        "mean": "缺点",
+        "tags": [
+            "缺点"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-23"
+    },
+    {
+        "word": "defect",
+        "mean": "缺点",
+        "tags": [
+            "缺点"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-23"
+    },
+    {
+        "word": "drawback",
+        "mean": "缺点",
+        "tags": [
+            "缺点"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-23"
+    },
+    {
+        "word": "shortcoming",
+        "mean": "缺点",
+        "tags": [
+            "缺点"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-23"
+    },
+    {
+        "word": "flaw",
+        "mean": "缺点",
+        "tags": [
+            "缺点"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-23"
+    },
+    {
+        "word": "obvious",
+        "mean": "明显的",
+        "tags": [
+            "明显"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-09-10"
+    },
+    {
+        "word": "let alone",
+        "mean": "更不用说",
+        "tags": [
+            "递进"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-23"
+    },
+    {
+        "word": "rational",
+        "mean": "合理的",
+        "tags": [
+            "合理",
+            "好的"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-23"
+    },
+    {
+        "word": "occasionally",
+        "mean": "偶然地",
+        "tags": [
+            "偶然",
+            "单写s"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-23"
+    },
+    {
+        "word": "casually",
+        "mean": "偶然地",
+        "tags": [
+            "偶然"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-23"
+    },
+    {
+        "word": "accidentally",
+        "mean": "偶然地、意外地",
+        "tags": [
+            "偶然",
+            "意外",
+            "tal后缀"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-23"
+    },
+    {
+        "word": "gain",
+        "mean": "获得",
+        "tags": [
+            "获得"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-23"
+    },
+    {
+        "word": "substantiate",
+        "mean": "证明",
+        "tags": [
+            "证明"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-09-10"
+    },
+    {
+        "word": "escalate",
+        "mean": "恶化",
+        "tags": [
+            "恶化"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-23"
+    },
+    {
+        "word": "extravagant",
+        "mean": "奢侈的",
+        "tags": [
+            "奢侈",
+            "浪费",
+            "ant后缀"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-23"
+    },
+    {
+        "word": "fatal",
+        "mean": "致命的",
+        "tags": [
+            "致命"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-23"
+    },
+    {
+        "word": "be doomed to",
+        "mean": "注定",
+        "tags": [
+            "注定"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-23"
+    },
+    {
+        "word": "bo bound to ",
+        "mean": "注定",
+        "tags": [
+            "注定"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-23"
+    },
+    {
+        "word": "be destined to",
+        "mean": "注定",
+        "tags": [
+            "注定"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-23"
+    },
+    {
+        "word": "foremost",
+        "mean": "第一流的、重要的",
+        "tags": [
+            "重要",
+            "好的"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-23"
+    },
+    {
+        "word": "incidentally",
+        "mean": "偶然地",
+        "tags": [
+            "偶然",
+            "tal后缀"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-23"
+    },
+    {
+        "word": "ordinary",
+        "mean": "普通的",
+        "tags": [
+            "普通"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-23"
+    },
+    {
+        "word": "conqueror",
+        "mean": "征服者",
+        "tags": [
+            "or后缀"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-23"
+    },
+    {
+        "word": "emperor",
+        "mean": "皇帝",
+        "tags": [
+            "or后缀"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-23"
+    },
+    {
+        "word": "proposition",
+        "mean": "建议",
+        "tags": [
+            "建议"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-23"
+    },
+    {
+        "word": "fierce",
+        "mean": "强烈",
+        "tags": [
+            "强烈"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-23"
+    },
+    {
+        "word": "governor",
+        "mean": "统治者",
+        "tags": [
+            "or后缀"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-23"
+    },
+    {
+        "word": "enhance",
+        "mean": "增强",
+        "tags": [
+            "增强"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-23"
+    },
+    {
+        "word": "mount",
+        "mean": "增加",
+        "tags": [
+            "增加"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-23"
+    },
+    {
+        "word": "distinctly",
+        "mean": "明显",
+        "tags": [
+            "明显"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-23"
+    },
+    {
+        "word": "signify",
+        "mean": "表明",
+        "tags": [
+            "表明"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-23"
+    },
+    {
+        "word": "bachelor",
+        "mean": "学士",
+        "tags": [
+            "or后缀"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-23"
+    },
+    {
+        "word": "tackle",
+        "mean": "处理",
+        "tags": [
+            "处理"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-23"
+    },
+    {
+        "word": "highlight",
+        "mean": "强调",
+        "tags": [
+            "强调",
+            "重要"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-09-10"
+    },
+    {
+        "word": "stimulate",
+        "mean": "促进",
+        "tags": [
+            "促进"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-24"
+    },
+    {
+        "word": "arouse",
+        "mean": "引起",
+        "tags": [
+            "引起"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-24"
+    },
+    {
+        "word": "popularize",
+        "mean": "推广、普及",
+        "tags": [
+            "推广",
+            "普及"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-24"
+    },
+    {
+        "word": "motivate",
+        "mean": "使有动机、激发",
+        "tags": [
+            "促进"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-24"
+    },
+    {
+        "word": "zeal",
+        "mean": "热忱、愿望",
+        "tags": [
+            "愿望"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-24"
+    },
+    {
+        "word": "inspire",
+        "mean": "鼓励、激励",
+        "tags": [
+            "促进",
+            "鼓励"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-24"
+    },
+    {
+        "word": "hardsh",
+        "mean": "困难",
+        "tags": [
+            "困难"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-24"
+    },
+    {
+        "word": "plight",
+        "mean": "困难",
+        "tags": [
+            "困难"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-24"
+    },
+    {
+        "word": "predicament",
+        "mean": "困难",
+        "tags": [
+            "困难"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-09-06"
+    },
+    {
+        "word": "obstacle",
+        "mean": "困难",
+        "tags": [
+            "困难"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-24"
+    },
+    {
+        "word": "block",
+        "mean": "阻碍",
+        "tags": [
+            "阻碍"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-24"
+    },
+    {
+        "word": "hinder",
+        "mean": "阻碍",
+        "tags": [
+            "阻碍"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-24"
+    },
+    {
+        "word": "hurdle",
+        "mean": "困难",
+        "tags": [
+            "困难"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-24"
+    },
+    {
+        "word": "susceptible",
+        "mean": "易受影响的",
+        "tags": [
+            "易受影响"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-24"
+    },
+    {
+        "word": "vulnerable",
+        "mean": "脆弱的、易受影响的",
+        "tags": [
+            "脆弱",
+            "易受影响"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-24"
+    },
+    {
+        "word": "strive",
+        "mean": "努力",
+        "tags": [
+            "努力"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-24"
+    },
+    {
+        "word": "acquire",
+        "mean": "获得",
+        "tags": [
+            "获得"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-24"
+    },
+    {
+        "word": "innumerable",
+        "mean": "大量",
+        "tags": [
+            "大量"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-24"
+    },
+    {
+        "word": "prosperous",
+        "mean": "繁荣 prosperity",
+        "tags": [
+            "繁荣"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-24"
+    },
+    {
+        "word": "booming",
+        "mean": "繁荣、增加",
+        "tags": [
+            "繁荣",
+            "增加"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-24"
+    },
+    {
+        "word": "flourishing",
+        "mean": "繁荣、flourish",
+        "tags": [
+            "繁荣"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-24"
+    },
+    {
+        "word": "proportion",
+        "mean": "比例",
+        "tags": [
+            "比例"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-25"
+    },
+    {
+        "word": "ratio",
+        "mean": "比例",
+        "tags": [
+            "比例"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-09-06"
+    },
+    {
+        "word": "shrink",
+        "mean": "减小、shrinkage",
+        "tags": [
+            "减小"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-25"
+    },
+    {
+        "word": "superficial",
+        "mean": "肤浅的、表面的",
+        "tags": [
+            "肤浅",
+            "表面"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-25"
+    },
+    {
+        "word": "shallow",
+        "mean": "肤浅的",
+        "tags": [
+            "肤浅"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-09-10"
+    },
+    {
+        "word": "steer",
+        "mean": "引导、建议",
+        "tags": [
+            "引导",
+            "建议"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-25"
+    },
+    {
+        "word": "contradictory",
+        "mean": "矛盾的，self-contradictory，自相矛盾",
+        "tags": [
+            "矛盾"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-25"
+    },
+    {
+        "word": "paradox",
+        "mean": "悖论、矛盾，paradoxical",
+        "tags": [
+            "矛盾",
+            "悖论"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-25"
+    },
+    {
+        "word": "predecessor",
+        "mean": "前任、前辈",
+        "tags": [
+            "前辈"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-26"
+    },
+    {
+        "word": "relieve",
+        "mean": "减小",
+        "tags": [
+            "减小"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-26"
+    },
+    {
+        "word": "alleviate",
+        "mean": "减小",
+        "tags": [
+            "减小"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-09-10"
+    },
+    {
+        "word": "palliate",
+        "mean": "减小",
+        "tags": [
+            "减小"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-26"
+    },
+    {
+        "word": "mundane",
+        "mean": "平凡的、普通的",
+        "tags": [
+            "普通"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-26"
+    },
+    {
+        "word": "prioritize",
+        "mean": "优先考虑",
+        "tags": [
+            "重要"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-26"
+    },
+    {
+        "word": "tricky",
+        "mean": "困难的",
+        "tags": [
+            "困难"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-26"
+    },
+    {
+        "word": "deepen",
+        "mean": "加强",
+        "tags": [
+            "加强"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-26"
+    },
+    {
+        "word": "ignorance",
+        "mean": "无知",
+        "tags": [
+            "ance后缀"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-26"
+    },
+    {
+        "word": "emphasize",
+        "mean": "强调",
+        "tags": [
+            "重要"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-26"
+    },
+    {
+        "word": "date back to",
+        "mean": "追溯到",
+        "tags": [
+            "时间"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-26"
+    },
+    {
+        "word": "creator",
+        "mean": "创办者",
+        "tags": [
+            "or后缀"
+        ],
+        "sentence": "",
+        "finish": true,
+        "reviewAt": "2018-08-26"
+    },
+    {
+        "word": "uncover",
+        "mean": "发现、揭露、表明",
+        "tags": [
+            "表明"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-26"
+    },
+    {
+        "word": "aggregate",
+        "mean": "n.v.a.总计、总数的",
+        "tags": [
+            "总计"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-26"
+    },
+    {
+        "word": "innovator",
+        "mean": "革新者",
+        "tags": [
+            "创新",
+            "or后缀"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-28"
+    },
+    {
+        "word": "persist",
+        "mean": "坚持",
+        "tags": [
+            "努力",
+            "坚持"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-29"
+    },
+    {
+        "word": "beneficial",
+        "mean": "有利的",
+        "tags": [
+            "好的"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-30"
+    },
+    {
+        "word": "dominant",
+        "mean": "主要的",
+        "tags": [
+            "重要"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-30"
+    },
+    {
+        "word": "negotiator",
+        "mean": "协商者、谈判者",
+        "tags": [
+            "or后缀"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-30"
+    },
+    {
+        "word": "enforceable",
+        "mean": "可执行的、可实施的",
+        "tags": [
+            "好的"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-30"
+    },
+    {
+        "word": "blossom",
+        "mean": "n.v.开花、花朵、自信、成功",
+        "tags": [
+            "成功"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-31"
+    },
+    {
+        "word": " appearance",
+        "mean": "出现",
+        "tags": [
+            "ance后缀"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-08-31"
+    },
+    {
+        "word": "intricate",
+        "mean": "复杂的",
+        "tags": [
+            "复杂"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-09-01"
+    },
+    {
+        "word": "crucial",
+        "mean": "重要的",
+        "tags": [
+            "重要"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-09-01"
+    },
+    {
+        "word": "instructor",
+        "mean": "导师",
+        "tags": [
+            "or后缀"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-09-01"
+    },
+    {
+        "word": "unconditional",
+        "mean": "无条件的",
+        "tags": [
+            ""
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-09-01"
+    },
+    {
+        "word": "unintended",
+        "mean": "非计划的、无意的",
+        "tags": [
+            "无意"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-09-10"
+    },
+    {
+        "word": "adverse",
+        "mean": "不好的、不利的、反面的",
+        "tags": [
+            "不好"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-09-02"
+    },
+    {
+        "word": "unprecende",
+        "mean": "前所未有的",
+        "tags": [
+            "好的"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-09-02"
+    },
+    {
+        "word": "gear up",
+        "mean": "促进",
+        "tags": [
+            "促进"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-09-03"
+    },
+    {
+        "word": "acceptable",
+        "mean": "可接受的",
+        "tags": [
+            "好的"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-09-04"
+    },
+    {
+        "word": "turmoil",
+        "mean": "动乱",
+        "tags": [
+            "动乱"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-09-04"
+    },
+    {
+        "word": "upheaval",
+        "mean": "动乱",
+        "tags": [
+            "动乱"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-09-04"
+    },
+    {
+        "word": "unrest",
+        "mean": "动乱",
+        "tags": [
+            "动乱"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-09-10"
+    },
+    {
+        "word": "commotion",
+        "mean": "动乱",
+        "tags": [
+            "动乱"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-09-04"
+    },
+    {
+        "word": "turbulence",
+        "mean": "动乱",
+        "tags": [
+            "动乱"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-09-04"
+    },
+    {
+        "word": "crisis",
+        "mean": "动乱、危机",
+        "tags": [
+            "危机",
+            "动乱"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-09-04"
+    },
+    {
+        "word": "slide",
+        "mean": "n.v.减小",
+        "tags": [
+            "减小"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-09-04"
+    },
+    {
+        "word": "tighten",
+        "mean": "加强、使更紧密",
+        "tags": [
+            "加强"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-09-04"
+    },
+    {
+        "word": "irreparable",
+        "mean": "不可挽回",
+        "tags": [
+            "不可挽回"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-09-04"
+    },
+    {
+        "word": "elaborate",
+        "mean": "复杂的，详细的",
+        "tags": [
+            "复杂"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-09-05"
+    },
+    {
+        "word": "successor",
+        "mean": "继任者、接替者",
+        "tags": [
+            "or后缀"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-09-05"
+    },
+    {
+        "word": "indispensable",
+        "mean": "不可或缺的",
+        "tags": [
+            "重要"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-09-10"
+    },
+    {
+        "word": "survivor",
+        "mean": "幸存者",
+        "tags": [
+            "or后缀"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-09-05"
+    },
+    {
+        "word": "contend",
+        "mean": "断言、声称",
+        "tags": [
+            "声称"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-09-06"
+    },
+    {
+        "word": "perceptive",
+        "mean": "敏锐的",
+        "tags": [
+            "好的"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-09-07"
+    },
+    {
+        "word": "acute",
+        "mean": "严重的",
+        "tags": [
+            "严重"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-09-08"
+    },
+    {
+        "word": "enlist",
+        "mean": "获得、征募",
+        "tags": [
+            "获得"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-09-09"
+    },
+    {
+        "word": "press for",
+        "mean": "实施、竭力要求",
+        "tags": [
+            "实施"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-09-09"
+    },
+    {
+        "word": "sound",
+        "mean": "安全的",
+        "tags": [
+            "安全"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-09-09"
+    },
+    {
+        "word": "grown-up",
+        "mean": "a成熟的、n成人",
+        "tags": [
+            "成熟"
+        ],
+        "sentence": "",
+        "finish": false,
+        "reviewAt": "2018-09-10"
+    }
+]

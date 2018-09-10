@@ -5,6 +5,11 @@ if(empty($unReview)) {
     exit();
 }
 $word = $unReview[array_rand($unReview)];
+$relateds = [];
+foreach($words as $w)
+    foreach($word->tags as $tag)
+        if(in_array($tag, $w->tags))
+            $relateds[$w->word] = $w;
 if(isset($_GET['remember'])) {
     review($_GET['remember']);
     exit();
@@ -42,6 +47,9 @@ if(isset($_GET['remember'])) {
                     <a target="_blank" href="list.php?view=tag&tag=<?php echo $tag; ?>" class="label label-primary"><?php echo $tag; ?></a>
                 <?php } ?></p>
                 <p><?php echo $word->sentence; ?></p>
+                <p><?php foreach($relateds as $related) { ?>
+                    <?php echo $related == $word ? '' : '<a href="https://www.bing.com/dict/search?q=' . $related->word . '" target="_blank">' . $related->word . '</a>' . '<span>、</span>'; ?>
+                <?php } ?></p>
             </div>
             <hr />
             <div class="text-center">
