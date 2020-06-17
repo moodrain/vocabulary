@@ -17,7 +17,7 @@ if(isset($_GET['delete'])) {
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <link rel="stylesheet" href="https://cdn.moodrain.cn/static/bootstrap.css">
+    <link rel="stylesheet" href="https://s1.moodrain.cn/lib/bootstrap/index.css">
     <title>Word | Muyu Vocabulary</title>
 </head>
 <body>
@@ -65,7 +65,7 @@ if(isset($_GET['delete'])) {
             </div>
         </div>
     </div>
-    <script src="https://cdn.moodrain.cn/static/muyu.js"></script>
+    <script src="https://s1.moodrain.cn/lib/muyu/index.js"></script>
     <script>
         $e('word-input').focus()
         $click('submit-btn', () => { $e('form').submit() })
